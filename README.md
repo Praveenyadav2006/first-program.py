@@ -1,4 +1,4 @@
-#        Find The Bigger Number!
+#        Find The Biggest Number!
 x = int(input("please enter the number: "))
 y = int(input("please enter the another number: "))
 
